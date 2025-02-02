@@ -18,7 +18,7 @@ spring:
     hibernate:
       ddl-auto: update
 server:
-  port: 3000
+  port: 3030
   servlet:
     context-path: /auth-server
 eureka:
